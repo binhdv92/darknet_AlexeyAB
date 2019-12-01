@@ -1,0 +1,5 @@
+classes= 10
+train  = /darknetroot/data/itn_train.unix
+valid  = /darknetroot/data/itn_val.unix
+names  = /datanetroot/data/itn.names
+backup = /datanetroot/backup
