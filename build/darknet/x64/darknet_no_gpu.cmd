@@ -1,0 +1,1 @@
+darknet_no_gpu.exe detector test C:\itn\itn.data C:\itn\yolov3-tiny_3l_itn.cfg "C:\Users\vanbinhd\Google Drive\yolov3-tiny_3l_itn_last.weights" "itn_big.jpg" -save_labels -dont_show -outfile
